@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Hotel_SSRS", "C:\Users\User\Downloads\IT20188818_SSRS\IT20188818_SSRS\Hotel_SSRS.rptproj", "{E02E686F-8C84-4432-9078-9699E0A84FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Debug|Default.ActiveCfg = Debug
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Debug|Default.Build.0 = Debug
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Debug|Default.Deploy.0 = Debug
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.DebugLocal|Default.Build.0 = DebugLocal
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Release|Default.ActiveCfg = Release
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Release|Default.Build.0 = Release
+		{E02E686F-8C84-4432-9078-9699E0A84FF3}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F2557D-5E80-45B2-A748-56EEACB53E53}
+	EndGlobalSection
+EndGlobal
